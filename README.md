@@ -1,6 +1,6 @@
-# RedAI Community
+# RedAI Infra Community
 
-欢迎来到 RedAI Community！这里是小红书 AI Infra 团队面向开源社区的协作入口，用于沉淀社区活动、贡献指南和协作资料。具体项目的代码开发、Issue 与 Pull Request 请前往对应项目仓库。
+欢迎来到 RedAI Infra Community！这里是小红书大模型基建部面向开源社区的协作入口，用于沉淀社区活动、贡献指南和协作资料。具体项目的代码开发、Issue 与 Pull Request 请前往对应项目仓库。
 
 我们致力于建设领先、开发者友好的 AI 大模型全栈基础设施。无论你是第一次参与开源，还是希望深入大模型训练、推理、优化与服务，都欢迎从一个 Issue 开始。
 
